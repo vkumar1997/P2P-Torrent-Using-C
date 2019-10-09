@@ -4,7 +4,7 @@ A minimalist  BitTorrent implementation using C
 
 # Setup
 
-The coding was done in C (Ubuntu 18.04). The sockets used in the program use \textbf{TCP (relaible and connection oriented) for communication}. The protocol used is TCP/IP which is the default protocol for sockets in C.
+The coding was done in C (Ubuntu 18.04). The sockets used in the program use TCP (relaible and connection oriented) for communication. The protocol used is TCP/IP which is the default protocol for sockets in C.
 
 # Messages Used
 The program is a minimalist design of transferring files using peer-to-peer connections and a tracker (to store metadata anout peers). For this purpose, several types of messages were used to communicate between peers and the tracker. The broad categories of messages used are discussed below.
