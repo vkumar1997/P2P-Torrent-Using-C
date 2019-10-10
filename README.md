@@ -1,4 +1,4 @@
-## Class Assignment - Distributed Systems (FALL 2019)
+## Class Assignment - Distributed Systems (PSU FALL 2019)
 
 # P2P-Torrent-Using-C
 A minimalist  BitTorrent implementation using C
